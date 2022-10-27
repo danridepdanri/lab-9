@@ -1,0 +1,76 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(18,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(186,14): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(186,10): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(189,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(189,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(189,12): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(189,8): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(190,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(190,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(190,12): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(190,8): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(191,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(191,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(191,12): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(191,8): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(192,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(192,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(192,12): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(192,8): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(244,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(244,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(244,14): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(244,9): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(245,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(245,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(245,14): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(245,9): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(246,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(246,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(246,14): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(246,9): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(247,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(247,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(247,14): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(247,9): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(290,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(290,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(290,13): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(290,9): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(291,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(291,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(291,13): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(291,9): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(292,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(292,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(292,13): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(292,9): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(293,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(293,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(293,13): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(293,9): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(323,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(323,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(323,14): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(323,8): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(324,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(324,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(324,14): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(324,8): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(325,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(325,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(325,14): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(325,8): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(326,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(326,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(326,14): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(326,8): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+graphics.lib(dibutil.obj) : warning LNK4099: "bgi.pdb" PDB не найден с "graphics.lib(dibutil.obj)" или на "C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\Debug\bgi.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+graphics.lib(drawing.obj) : warning LNK4099: "bgi.pdb" PDB не найден с "graphics.lib(drawing.obj)" или на "C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\Debug\bgi.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+graphics.lib(file.obj) : warning LNK4099: "bgi.pdb" PDB не найден с "graphics.lib(file.obj)" или на "C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\Debug\bgi.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+graphics.lib(misc.obj) : warning LNK4099: "bgi.pdb" PDB не найден с "graphics.lib(misc.obj)" или на "C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\Debug\bgi.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+graphics.lib(winbgi.obj) : warning LNK4099: "bgi.pdb" PDB не найден с "graphics.lib(winbgi.obj)" или на "C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\Debug\bgi.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+graphics.lib(winthread.obj) : warning LNK4099: "bgi.pdb" PDB не найден с "graphics.lib(winthread.obj)" или на "C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\Debug\bgi.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  ConsoleApplication1.vcxproj -> C:\Users\Admin\Desktop\МО лаба 2\ConsoleApplication1\Debug\ConsoleApplication1.exe
